@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# script gives the ability to run anything as another user.
+sudo -u "$1" whoami
